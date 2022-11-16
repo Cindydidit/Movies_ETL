@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Adding large CSV  files
+ratings.csv
+movies_metadata.csv
+
+# Now ignoring csv files
+*.csv
+
+# Adding config.py
+*config.py
